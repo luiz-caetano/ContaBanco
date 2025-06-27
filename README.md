@@ -1,9 +1,7 @@
 
 # 🏦 ContaTerminal – Bootcamp Backend Java (DIO | Santander)
 
-[![Java Version](https://img.shields.io/badge/Java-11%2B-orange.svg)]()  
-[![Build Status](https://img.shields.io/badge/Build-Pass-brightgreen.svg)]()  
-[![Made with DIO ☕️](https://img.shields.io/badge/Made%20with-DIO%20Bootcamp-red.svg)]()
+[![Java Version](https://img.shields.io/badge/Java-11%2B-orange.svg)]()  [![Build Status](https://img.shields.io/badge/Build-Pass-brightgreen.svg)]()  [![Made with DIO ☕️](https://img.shields.io/badge/Made%20with-DIO%20Bootcamp-red.svg)]()
 
 ---
 
